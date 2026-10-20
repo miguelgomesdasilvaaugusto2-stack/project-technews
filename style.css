@@ -1,0 +1,39 @@
+h2 {
+    color: #5f9ea0;
+}
+
+header {
+    margin-bottom: 2px;
+}
+
+footer {
+    color: #199ac5;
+}
+
+#cabecalho-principal {
+    background-color: #0066ff;
+    color: #042e58;
+    text-align: center;
+    padding: 4px;
+}
+
+.card-noticia {
+    border: 1px solid #757575;
+    padding: 4px;
+    margin-bottom: 6px;
+    border-radius: 6px;
+}
+
+.botao {
+    border: none;
+    cursor: pointer;
+}
+
+.alerta {
+    font-weight: 700;
+}
+
+.destaque {
+    border-color: #87cefa;
+    background: linear-gradient(45deg, #ffffff, #57cfe4);
+}
